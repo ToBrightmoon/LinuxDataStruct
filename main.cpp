@@ -33,6 +33,7 @@ int main() {
   const Base2& b2 = Derived();
   b.cout();
   b2.cy();
+  b2.cy();
   std::cout << "hello world" << std::endl;
   return -1;
 }
