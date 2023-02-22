@@ -10,5 +10,5 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(
         ${PROJECT_SOURCE_DIR}/include
 )
-
+add_library(lib_problem problem/getK.cpp)
 add_executable(Data main.cpp)

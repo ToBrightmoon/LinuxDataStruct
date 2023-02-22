@@ -1,6 +1,3 @@
-//
-// Created by cheng on 2023/2/22.
-//
 #include <vector>
 /*
  * Get the k of order in a vector
